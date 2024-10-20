@@ -10,3 +10,9 @@ I was the <b> <i> only first year </i> </b> student who had known a-bit about ha
   <img  src='https://media.giphy.com/media/3ohryhLGwtyIGy1ibS/giphy.gif?cid=790b7611xmrhl877yyku7s5wbp913zjsmzfjs03arhy70vno&ep=v1_gifs_search&rid=giphy.gif&ct=g' height=50px width=50px > 
  </p>
 <b> <i> First step is always intimidating, but it's necessary. So take your first step, and be consistant, you will reach your goal :) </i> </b>
+
+## Code
+To access the Main page code of this website go to `web.html` file
+The code for "Product based Company" page is in `pbc.html`
+The code for "Service based Company" page is in `sbc.html`
+To access forms page go to `forms.html` file
